@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Portfolio_SimpleRPG",
+"dataUrl": "Portforlio_SimpleRPG_Korean.data.unityweb",
+"wasmCodeUrl": "Portforlio_SimpleRPG_Korean.wasm.code.unityweb",
+"wasmFrameworkUrl": "Portforlio_SimpleRPG_Korean.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
